@@ -1,0 +1,75 @@
+DS Algo
+
+Data Structures
+- data organization
+- management
+- storage
+
+Why Data Structure ?
+- Finding Shortest Path
+- Linked List - Music Playlist
+- Stack - Undo Operations, Browser Back Functionality
+- Graphs - Relationship on social media
+- Tree - Folders in OS
+- Queue - Key press sequence in keyboard
+
+Graph DB
+- Neo4J
+
+What is Algo ?
+- Set of sequential steps for solving a problem
+
+Algo - Time and Space
+Math + Programming (Java)
+
+Analysis of Algorithm
+- before implementing any problem first analyze the problem
+
+Measure of Performance
+- Space
+- Time
+- Network
+
+Example
+- Let's do sum of n natural number
+  i/p : n = 5
+  o/p : 1 + 2 + 3 + 4 + 5 = 15
+
+Approach 1
+ : sum = 0
+ : for i = 0 to i <= n
+       sum = sum + i;
+
+ - time taken is C2n + C3
+
+Approach 2
+ : sum = 0;
+ : for i = 0 to i <= n
+       for j = 1 to j <= i
+           sum++;
+
+ - time taken is C4n ^ 2 + C3n + C6
+
+Approach 3
+ : n * (n + 1) / 2
+
+ - time taken in C1, because when we perform arithmetic operations, it takes
+   time that is irrespective to input 
+
+
+Find the Missing Number
+- i/p : [1,2,3,6,7,8,4]
+- o/p : 5
+
+
+Aysmptotic Analysis
+- measure order of growth of time taken by a function in terms on input n
+
+- Big O
+- Theta
+- Omega
+
+
+
+
+

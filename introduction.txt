@@ -1,0 +1,46 @@
+Data Structure Introduction
+
+- management, storage, organization of data
+
+Time
+Space
+
+Why we learn Data Structure ?
+- Google Map - Shortest Path
+- Music Player - song next or prev - doubly linked list
+- browser navigation - Linked List / Stack
+- Graph - Social media connections
+- Tree - Folders in OS
+- Queue - used by OS for Job Scheduling
+
+
+Data Structure lend itself to efficient algorithm
+Data Structure and algorithm go hand in hand
+
+
+Algorithm
+- step by step procedure to solve a problem
+- sequential steps for solving a problem
+
+
+Performance of algorithm
+
+Measure of performance
+- Time
+- Space
+- Network
+
+
+Asymptotic Analysis
+- Analysis of Algorithm
+
+- it measures order of growth
+  - if n(input) grows so how much time grows it linearly, exponentially, constant or quadratically
+- does not depend upon machine or programming language
+- no need to implement algorithm practially on machine, we just analyse and determine the algo is efficient or not...
+
+
+
+
+
+
