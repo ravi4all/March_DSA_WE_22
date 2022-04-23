@@ -1,0 +1,15 @@
+Array CRUD Operations
+Buy and Sell Stock
+Reverse Array
+Largest Element in array
+Second Largest Element in array
+Span of an array
+==========================
+Print Bar chart
+Pair Sum
+Remove Duplicate Elements from Array
+Find the leader element in array
+
+Homework :
+Convert Array into Zig Zag Fashion 
+Rotate Array K times
