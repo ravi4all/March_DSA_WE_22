@@ -10,6 +10,19 @@ Pair Sum
 Remove Duplicate Elements from Array
 Find the leader element in array
 
+==========================
 Homework :
 Convert Array into Zig Zag Fashion 
 Rotate Array K times
+==========================
+
+Addition of 2 Arrays
+Subtraction of 2 Arrays
+Sort 0 and 1
+==========================
+DNF - Dutch National Flag - Sort 0, 1 and 2
+Unique Element - all elements are repeated 2 times but only 1 element is unique
+==========================
+Find Missing Number in N natural numbers
+Majority Element
+Water Trapping Problem
