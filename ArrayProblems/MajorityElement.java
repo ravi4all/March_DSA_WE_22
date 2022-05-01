@@ -45,11 +45,38 @@ public class MajorityElement {
         return majority.getKey();
     }
 
+    static void approach_3(int arr[], int n) {
+        int majorityElement = 0;
+        int count = 0;
+        for(int i = 0; i < n; i++) {
+            if(count == 0) {
+                majorityElement = arr[i];
+            }
+
+            if(majorityElement == arr[i]) {
+                count++;
+            }
+            else {
+                count--;
+            }
+        }
+        count = 0;
+        for(int i = 0; i < n; i++) {
+            if(arr[i] == majorityElement) {
+                count++;
+            }
+        }
+
+        String msg = count > n/2 ? "Majorithy Element :: " + majorityElement : "No Majority Element";
+        System.out.println(msg);
+    }
+
     public static void main(String[] args) {
         int arr[] = {1,2,3,2,3,4,2,6,3,2,2,2,2,2};
         int n = arr.length;
         // System.out.println(approach_1(arr, n));
-        System.out.println(approach_2(arr, n));
+        // System.out.println(approach_2(arr, n));
+        approach_3(arr, n);
     }
 
 }
