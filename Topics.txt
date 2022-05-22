@@ -26,3 +26,20 @@ Unique Element - all elements are repeated 2 times but only 1 element is unique
 Find Missing Number in N natural numbers
 Majority Element
 Water Trapping Problem
+Max Chunks
+Sum of subarrays of size k
+Maximum sum of k consecutive elements
+Subarray sum
+NBonacii Series
+=========================
+Homework
+Count the distinct element in every window of size K : Hint : Prefix Sum
+=========================
+Find the equilibrium point in given array
+=========================
+2D Matrix
+1. Toeplitz Matrix
+2. Transpose of Matrix
+3. Lucky Number in 
+4. Rotate Matrix by 90 degree (Anticlockwise)
+5. Spiral Matrix
