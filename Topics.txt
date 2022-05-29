@@ -42,4 +42,22 @@ Find the equilibrium point in given array
 2. Transpose of Matrix
 3. Lucky Number in 
 4. Rotate Matrix by 90 degree (Anticlockwise)
-5. Spiral Matrix
+5. Snake Pattern
+6. Spiral Matrix
+7. K Weakest Rows in Matrix
+8. Game of Life
+    reference - https://leetcode.com/problems/game-of-life/
+9. Pascal Triangle
+    reference - https://leetcode.com/problems/pascals-triangle/
+10. Set Matrix Zeroes
+    reference - https://leetcode.com/problems/set-matrix-zeroes/
+=========================
+Singly Linked List
+1. CRUD Operations on Linked List
+    - Insert
+    - Update
+    - Delete
+    - Read
+2. Find Middle Element in LL
+3. Kth Element from End of LL
+4. Detect Loop in Linked List
