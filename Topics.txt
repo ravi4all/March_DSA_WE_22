@@ -61,3 +61,29 @@ Singly Linked List
 2. Find Middle Element in LL
 3. Kth Element from End of LL
 4. Detect Loop in Linked List
+5. Detect and Remove Loop in Linked List
+6. Reverse Linked List Data
+7. Palindrome in Linked List
+8. Intersection of two linked list - HW
+9. Split a single linked list into two single in alternate fashion - HW
+10. Merge 2 Sorted Linked List into third
+11. Merge K Sorted Linked List into One Single Linked List - HW
+12. Split a circular linked list into 2 halves - HW
+13. Double Linked List
+14. Clone Double Linked List
+15. LRU Cache - Least Recently Used
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
