@@ -72,10 +72,29 @@ Singly Linked List
 13. Double Linked List
 14. Clone Double Linked List
 15. LRU Cache - Least Recently Used
-
-
-
-
+=========================
+Stack - LIFO - Last In First Out
+Implementation of Stack with and without Java Collections
+1. Valid Parantheses Problem
+    i/p : str = "[(){}]"
+    o/p : yes
+    i/p : str = "[[)]]"
+    o/p : no
+2. Stock Span Problem
+    i/p : arr[] = {13,15,12,14,16,8,6,4,10,25}
+    o/p :       => 1, 2, 1, 2, 5, 1,1,1, 4,10
+    Try with stack
+3. Previous Smaller Element - HW
+4. Previous Greater Element
+5. Next Greater Element     - HW
+6. Next Smaller Element     - HW
+7. Longest Area in Histogram - HW Naive Approach
+8. 132 pattern - HW Stack Approach
+9. Infix to Postfix
+10. Infix to Prefix
+11. Prefix to Infix
+12. Postfix to Infix
+13. Petrol Gas Filling Problem
 
 
 
